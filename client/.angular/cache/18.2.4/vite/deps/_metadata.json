@@ -1,0 +1,52 @@
+{
+  "hash": "cba21d2a",
+  "configHash": "597dc187",
+  "lockfileHash": "6e02b5ac",
+  "browserHash": "e924c0ce",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "ea5addaf",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "97e13fff",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "f040715d",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "b1bec5bb",
+      "needsInterop": false
+    },
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "42fd2dd9",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-PFYY3KTW": {
+      "file": "chunk-PFYY3KTW.js"
+    },
+    "chunk-W7N322IE": {
+      "file": "chunk-W7N322IE.js"
+    },
+    "chunk-76WCV54H": {
+      "file": "chunk-76WCV54H.js"
+    },
+    "chunk-7T3XUILT": {
+      "file": "chunk-7T3XUILT.js"
+    }
+  }
+}
